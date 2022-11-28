@@ -23,13 +23,17 @@ Returns up to 5 random records containing that string
 
 ### Local Deployment
 
-First ensure Docker is locally deployed and build the image by running the command 
+First ensure Docker is locally installed and build the image by running the command 
 ```docker build -t hf_project:1.0 .```
 
 Then, build the container 
 ```docker run --name hf_project -d -p 80:8000 hf_project:1.0```
 
 The app should route to test on http://localhost/docs
+
+Example of showing sample records:
+
+Example of searching substring:
 
 ### AWS Deployment
 
