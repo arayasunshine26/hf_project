@@ -33,7 +33,11 @@ The app should route to test on http://localhost/docs
 
 Example of showing sample records:
 
-Example of searching substring:
+<img width="1430" alt="image" src="https://user-images.githubusercontent.com/119088985/204207600-aebe96c8-1181-400e-ba6b-2f1b8d0be601.png">
+
+Example of searching substring "rock":
+
+<img width="1427" alt="image" src="https://user-images.githubusercontent.com/119088985/204207746-19c82929-6a72-4710-a27d-213a196aeab9.png">
 
 ### AWS Deployment
 
