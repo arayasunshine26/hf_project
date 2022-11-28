@@ -13,13 +13,13 @@ The app utilizes Docker to containerize the methods/endpoints and creates an app
 
 Get method with no inputs
 
-Returns 5 random records
+Returns first 5 records
 
 #### /query_substring/{substring}:
 
 Input: Text string for searching on text field
 
-Returns up to 5 random records containing that string
+Returns up to 5 records containing that string
 
 ### Local Deployment
 
